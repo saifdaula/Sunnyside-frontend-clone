@@ -153,6 +153,7 @@ p {
 
 .text-container-three h1, .text-container-three p {
     color: #25564b;
+    text-align: center;
 }
 
 .text-container-three p {
